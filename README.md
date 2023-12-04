@@ -215,7 +215,9 @@ Examples:
 <details>
 <summary>In-class activity</summary>
 
-We will share final projects in <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> (3 min.)
+1. Make sure your project is live and ready to share
+1. Share your project in a small group (watch other use it, get specific feedback)
+1. Then, we'll go around the room and those who wish can share with the whole class in a <a href="https://en.wikipedia.org/wiki/Lightning_talk">lightning talks</a> (3 min.) format.
 
 </details>
 
