@@ -232,9 +232,10 @@ Your finished project should include:
 
 #### The Project
 
-1. Intro page: A well-designed, but simple page that contextualizes your project. It could appear as an introduction to the project or provided at the end to explain what happened.
 1. Your coded design (valid [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/) <sup>([?](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/html-css/css.md#css-validation))</sup>) combined with your prototype in a final application.
+1. About page: A well-designed, but simple page that contextualizes your project. It could appear as an introduction to the project or provided at the end to explain what happened.
 1. The project should be live, hosted on Github Pages, Vercel, or your own server.
+
 
 #### Documentation
 
