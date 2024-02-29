@@ -240,7 +240,7 @@ Your finished project should include:
 #### Documentation
 
 1. A Google Presentation (update your original proposal with screenshots, text, flowcharts, etc.) to document and share your finished project.
-1. A screencast video taken on your computer (do not use a cell phone!) (1:30 max) in case your site breaks 😳 (see [tips](https://omundy.github.io/learn-computing/slides/documentation.html))
+1. A screencast video taken on your computer (do not use a cell phone!) (1:30 max) to demonstrate how your project works (see [tips](https://omundy.github.io/learn-computing/slides/documentation.html))
 1. A 200–300 word statement explaining your concept and execution. This can be posted in Moodle, or included somehow in the actual project (e.g. the Intro page).
 1. A link to (all of) your Figma layouts
 
@@ -256,24 +256,39 @@ Your finished project should include:
 
 <details>
 <summary>Past examples</summary>
-  
+
+- 2023
+    - David and Tyler [Fortune Generator](https://davidmhilton.github.io/dig245-final)
+    - Yumna and Jeremy [Fly on the Wall](https://yuahmed.github.io/fly-on-the-wall/)
+    - Meredith [WanderWiser](https://merhaines.github.io/dig245-final/)
+    - Richard [crackgrevocab.co](https://www.crackgrevocab.co/)
+    - Will [ShareSpace](https://wcox2.github.io/dig245-final/)
+    - Patrick [tswiftly.com](http://tswiftly.com/)
+    - David [Graphify](https://graphify.glitch.me/)
 - 2022
     - Lillian [Social Mediator](https://limilano.github.io/dig245-final/)
     - Kate [More Than a Number](https://katehynes.github.io/dig245-final/) ([video](https://www.youtube.com/watch?v=DVVDX7hq6ew&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=3))
-    - Zoe [Diagnostic Survey Simulator](https://zoearen.github.io/dig245-final/) [video](https://www.youtube.com/watch?v=57j6hTeJRvA&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=5)
-    - Bryce Match Match Match† ([video](https://www.youtube.com/watch?v=bGqOcxWUBb4&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=4))
+    - Zoe [Diagnostic Survey Simulator](https://zoearen.github.io/dig245-final/) ([video](https://www.youtube.com/watch?v=57j6hTeJRvA&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=5))
+    - Bryce [Match Match Match](https://www.youtube.com/watch?v=bGqOcxWUBb4&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=4)†
     - Ethan [Demystify](https://etgeorge.github.io/dig245-final)
     - Francisco [Art? or Not!](https://francduartemar.github.io/dig245-final)
     - Gaby [Color Generator](https://gasanclimenti.github.io/dig245-final) ([video](https://www.youtube.com/watch?v=2-phHrgeIig&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK))
     - Sky [Tennis (Aaronson Oracle)](https://skyyylaw.github.io/dig245-final/)
     - Pauline [Malicious Email Reporter](https://cha1hee.github.io/dig245-final/)
     - Drew [Hound](https://github.com/drew-beamer/dig245-final)†
+    - Douglas [NotWatch](https://douglasdeutsch.github.io/dig245-final/)
 - 2021
     - Annelise [Epilogues](https://anclaire.github.io/dig245-final/home.html)
     - Caroline [Dream-Bot](https://casigl.github.io/dig245-final/)† ([video](https://www.youtube.com/watch?v=RGzRBdYQbGo&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=6)) 
     - Henry [Davidson College Scavenger Hunt](https://hehowell.github.io/Davidson-College-Scavenger-Hunt)
 - 2020
     - Stine [The Scroll Calculator](https://github.com/stinilso/final-project)
+- 2015 
+    - Holly and Thy [Vena Cava](https://www.youtube.com/watch?v=cVvKgnIUAPQ&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=13)†    
+- 2012
+    - Micky [The Web on Drugs](https://www.youtube.com/watch?v=QlJSAPCggo8&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=15) browser extension    
+- 2011
+    - Dana [Giftorama](https://www.youtube.com/watch?v=10vWAl1tqDw&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=15)†    
 
 
 
