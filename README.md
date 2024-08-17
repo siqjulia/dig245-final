@@ -81,7 +81,7 @@ Your application will consist of HTML, CSS, Javascript, and any additional libra
 *Identify a topic, collect research, prepare a summary for a brainstorming session.*
 
 1. **Identify potential topics** to explore. It shouldn't be too specific, nor too broad. Is there a specific problem you want to solve? Or do you wish to address issues by [problematizing](https://en.wikipedia.org/wiki/Problematization) your subject?
-1. **Collect research** (related articles, etc.) **and inspiration** (2-3 links or summaries of similar projects). Look at the [Critical Web Design / Radical Software Example Works](https://docs.google.com/spreadsheets/d/1mQ0doWT6tGXm2W-hB5zuz3I8mijGhLSkAe_XrcfMdok/edit#gid=0) for ideas or this list of [sites](https://www.awwwards.com/25-non-profit-and-social-driven-websites.html).
+1. **Collect research** (related articles, etc.) **and inspiration** (2-3 links or summaries of similar projects). See the [Critical Web Design Index](http://omundy.github.io/critical-web-design-index/) for inspiration.
 1. **Identify new skills or technologies** (e.g. a design method, programming pattern, code library, etc.) you are interested to learn and could potentially use in your project.
 1. **Write a summary** of your topic(s), research, and technology (3–4 sentences). Address why you are drawn to this topic and why it is important to explore. Identify the communities, resources, and issues involved. What [frameworks](https://docs.google.com/presentation/d/1OWc_e1pquvwKi4qxJShsZ1Rqia1dbDBcwpxYwdOic7o/edit#slide=id.g165f853ab3b_0_0) or methodologies might you use?
 1. Bring the above to class for the...
@@ -264,7 +264,7 @@ Your finished project should include:
     - Richard [crackgrevocab.co](https://www.crackgrevocab.co/)
     - Will [ShareSpace](https://wcox2.github.io/dig245-final/)
     - Patrick [tswiftly.com](http://tswiftly.com/)
-    - David [Graphify](https://graphify.glitch.me/)
+    - David Y. [Graphify](https://graphify.glitch.me/) (alt url: https://graph-if-y.netlify.app/ )
 - 2022
     - Lillian [Social Mediator](https://limilano.github.io/dig245-final/)
     - Kate [More Than a Number](https://katehynes.github.io/dig245-final/) ([video](https://www.youtube.com/watch?v=DVVDX7hq6ew&list=PLhpnnpt3tw-RiiFG9p_OJgjAfH-6kyAIK&index=3))
