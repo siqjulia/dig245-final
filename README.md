@@ -1,11 +1,17 @@
 
 # DIG 245 Final Project
 
+Design and program a web application as a creative response to content from the course.
 
 
 ## Introduction
 
-Design and program a web application as a creative response to content from the course.
+We’ve examined several issues around design and the internet this semester. Some forms are easy to identify, like how dark patterns manipulate user experiences by affecting usability and user expectations. Others, like the relationship between the surveillance economy and social justice are harder to visualize, but equally important when we consider whether the internet is or is not a positive force in society.
+
+At the beginning of the semester, the [View Source](https://github.com/omundy/dig245-view-source) assignment asked you to think about why it is important to be able to know how a web page works “under the hood.” This final assignment challenges you to further investigate one or more of your preferred themes (from or related to the course) and conceive of and build a creative response in the form of a web application that likewise makes the topic more understandable, relevant, or transparent.
+
+Your application will consist of HTML, CSS, Javascript, and any additional libraries you may need, but it should address the topic through an interactive experience that involves a user somehow inputting data, and your app transforming that data to reveal insights into your chosen topic.
+
 
 
 <details>
@@ -46,28 +52,8 @@ let grade = milestones + (deliverables * 0.8);
 
 
 
-
-## About
-
-We’ve examined several issues around design and the internet this semester. Some forms are easy to identify, like how dark patterns manipulate user experiences by affecting usability and user expectations. Others, like the relationship between the surveillance economy and social justice are harder to visualize, but equally important when we consider whether the internet is or is not a positive force in society.
-
-At the beginning of the semester, the [View Source](https://github.com/omundy/dig245-view-source) assignment asked you to think about why it is important to be able to know how a web page works “under the hood.” This final assignment challenges you to further investigate one or more of your preferred themes (from or related to the course) and conceive of and build a creative response in the form of a web application that likewise makes the topic more understandable, relevant, or transparent.
-
-Your application will consist of HTML, CSS, Javascript, and any additional libraries you may need, but it should address the topic through an interactive experience that involves a user somehow inputting data, and your app transforming that data to reveal insights into your chosen topic.
-
-
-
-
-## Setup
-
-[Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine. 
-
-
-
 <!--
-
 [project development template](https://github.com/omundy/project-development-template)
-
 -->
 
 ![flowchart](assets/img/5.2-design-prototype-separation.png)
@@ -76,12 +62,15 @@ Your application will consist of HTML, CSS, Javascript, and any additional libra
 
 
 
+
+
+
 ## 1 - Concept
 
 *Identify a topic, collect research, prepare a summary for a brainstorming session.*
 
 1. **Identify potential topics** to explore. It shouldn't be too specific, nor too broad. Is there a specific problem you want to solve? Or do you wish to address issues by [problematizing](https://en.wikipedia.org/wiki/Problematization) your subject?
-1. **Collect research** (related articles, etc.) **and inspiration** (2-3 links or summaries of similar projects). See the [Critical Web Design Index](http://omundy.github.io/critical-web-design-index/) for inspiration.
+1. **Collect research** (related articles, etc.) **and examples** (2-3 links or summaries of similar projects). See the [Critical Web Design Index](http://omundy.github.io/critical-web-design-index/) for inspiration.
 1. **Identify new skills or technologies** (e.g. a design method, programming pattern, code library, etc.) you are interested to learn and could potentially use in your project.
 1. **Write a summary** of your topic(s), research, and technology (3–4 sentences). Address why you are drawn to this topic and why it is important to explore. Identify the communities, resources, and issues involved. What [frameworks](https://docs.google.com/presentation/d/1OWc_e1pquvwKi4qxJShsZ1Rqia1dbDBcwpxYwdOic7o/edit#slide=id.g165f853ab3b_0_0) or methodologies might you use?
 1. Bring the above to class for the...
@@ -155,6 +144,7 @@ Create a pitch deck (10-15 slide **Google Presentation**)* to share and plan you
 
 Create a working “proof of concept” of your app.
 
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository) this repository and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) it to your machine.
 1. Your prototype should contain the essential functions of your project.
 1. Your work should be live (able to be shared via a link in Slack)
 1. Feel free to fork and use any example repository from class to get started.
