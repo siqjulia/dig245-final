@@ -92,7 +92,30 @@ In groups, brainstorm on your topic(s) use the <a href="https://omundy.github.io
 </details>
 
 
+<details>
+<summary>Related Articles</summary>
 
+
+### Data Tracking
+
+- 📚 Tobias Rose-Stockwell [This Is How Your Fear and Outrage Are Being Sold for Profit](https://medium.com/the-mission/the-enemy-in-our-feeds-e86511488de) (2017) 
+- 📚 Steve Lambert [“Add-Art: Sharing, Freedom, and Beer”](https://visitsteve.com/made/the-add-art-story/) in Net Works: Case Studies in Web Art and Design (ed. xtine burrough) (2012) [add-art.org](https://add-art.org) (2011-)
+- 📚 [Do Not Track documentary](https://donottrack-doc.com/en/episodes/) (2015)
+- Design Lab: [Figma 101: Day 2 | Design an app screen](https://trydesignlab.com/figma-101-course/design-an-app-screen/)
+- [Anatomy of a computer virus (Stuxnet)](https://vimeo.com/25118844) (3:21) | Ubermorgen [Vote-Auction](https://anthology.rhizome.org/vote-auction) (2000) | Steve Lambert [The Most Awkward 404 Page on the Internet](https://visitsteve.com/404) | [tosdr.org](https://tosdr.org/)
+
+
+
+
+### Design & Power
+
+- 📚 Wilneida Negrón [10 tech issues that will impact social justice in 2017](https://www.fordfoundation.org/ideas/equals-change-blog/posts/10-tech-issues-that-will-impact-social-justice-in-2017/) 
+- 📚 Brooke Singer “Superfund365.org” in Net Works: Case Studies in Web Art and Design (ed. xtine burrough) (2012)
+- 📚 George Aye [Design Education’s Big Gap: Understanding the Role of Power](https://medium.com/greater-good-studio/design-educations-big-gap-understanding-the-role-of-power-1ee1756b7f08) (2017)
+- Brooke Singer [superfund365.org](https://superfund365.org) and [toxicsites.us](https://toxicsites.us) | Ben Grosser [Facebook Demetricator](http://bengrosser.com/projects/facebook-demetricator/) | fffff.at [Google Alarm extension](http://www.jamiedubs.com/googlealarm/) | JODI [geogoo.net](https://www.youtube.com/watch?v=7GB9Txb5_0E) | Daniel Temkin [esoteric.codes](https://esoteric.codes) 
+
+
+</details>
 
 
 
