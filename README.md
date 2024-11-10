@@ -276,7 +276,7 @@ Your finished project should include:
     - Meredith [WanderWiser](https://merhaines.github.io/dig245-final/)
     - Richard [crackgrevocab.co](https://www.crackgrevocab.co/)
     - Will [ShareSpace](https://wcox2.github.io/dig245-final/)
-    - Patrick [tswiftly.com](http://tswiftly.com/)
+    - Patrick [tswiftly.com](https://patrickleary.dcreate.domains/tswiftly/index.html)
     - David Y. [Graphify](https://graphify.glitch.me/) (alt url: https://graph-if-y.netlify.app/ )
 - 2022
     - Lillian [Social Mediator](https://limilano.github.io/dig245-final/)
