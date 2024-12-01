@@ -1,15 +1,9 @@
 
 /* css */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 .topnav { 
     background-color: #3078CD;
-    height: 50px;
+    height: 60px;
 }
 
 .topnav a { 
@@ -21,4 +15,14 @@
 
 .topnav img { 
     z-index: 2;
+}
+
+#welcome { 
+    text-align: center;
+    margin-top: 3%;
+}
+
+#checkinbox { 
+    background-color: #3078CD;
+    margin-top: 3%;
 }
