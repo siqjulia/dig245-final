@@ -1,2 +1,24 @@
 
 /* css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.topnav { 
+    background-color: #3078CD;
+    height: 50px;
+}
+
+.topnav a { 
+    float: right; 
+    color: white;
+    text-align: center; 
+    padding: 14px 16px; 
+}
+
+.topnav img { 
+    z-index: 2;
+}
