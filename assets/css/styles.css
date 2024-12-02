@@ -46,15 +46,43 @@
 #background2 { 
     background-color: #F5F5F5; 
     width: 854px; 
-    height: 925px;
+    height: 950px;
     margin: auto; 
 }
 
 #background3 { 
     background-color: #F5F5F5; 
     width: 854px; 
-    height: 925px;
+    height: 830px;
     margin: auto; 
+}
+
+#background4{ 
+    background-color: #F5F5F5; 
+    width: 854px; 
+    height: 1140px;
+    margin: auto; 
+}
+
+#background5 { 
+    background-color: #F5F5F5; 
+    width: 854px; 
+    height: 450px;
+    margin: auto; 
+}
+
+#background5 p{ 
+    text-align: left;
+    margin-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;  
+}
+
+#background4 p{ 
+    text-align: left;
+    margin-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;  
 }
 
 #background3 p { 
