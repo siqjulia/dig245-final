@@ -1,131 +1,140 @@
-
 /* css */
 
-.topnav { 
+.topnav {
     background-color: #3078CD;
     height: 60px;
+    font-size: large;
 }
 
-.topnav a { 
-    float: right; 
+.topnav a {
+    float: right;
     color: white;
-    text-align: center; 
-    padding: 14px 16px; 
+    text-align: center;
+    padding: 14px 16px;
 }
 
-.topnav img { 
+.topnav img {
     z-index: 2;
 }
 
-#welcome { 
+#welcome {
     text-align: center;
     margin-top: 3%;
 }
 
-#checkinbox { 
+#checkinbox {
     background-color: #3078CD;
     margin-top: 6%;
 }
 
-#next1 { 
+#next1 {
     background-color: #3078CD;
 }
 
 
-#fromjulia { 
-    margin-top: 5%; 
+#fromjulia {
+    margin-top: 5%;
 }
 
-#background { 
-    background-color: #F5F5F5; 
-    width: 854px; 
+#background {
+    background-color: #F5F5F5;
+    width: 854px;
     height: 500px;
-    margin: auto; 
+    margin: auto;
 }
 
-#background2 { 
-    background-color: #F5F5F5; 
-    width: 854px; 
+#background2 {
+    background-color: #F5F5F5;
+    width: 854px;
     height: 950px;
-    margin: auto; 
+    margin: auto;
 }
 
-#background3 { 
-    background-color: #F5F5F5; 
-    width: 854px; 
+#background3 {
+    background-color: #F5F5F5;
+    width: 854px;
     height: 830px;
-    margin: auto; 
+    margin: auto;
 }
 
-#background4{ 
-    background-color: #F5F5F5; 
-    width: 854px; 
+#background4 {
+    background-color: #F5F5F5;
+    width: 854px;
     height: 1140px;
-    margin: auto; 
+    margin: auto;
 }
 
-#background5 { 
-    background-color: #F5F5F5; 
-    width: 854px; 
+#background5 {
+    background-color: #F5F5F5;
+    width: 854px;
     height: 450px;
-    margin: auto; 
+    margin: auto;
 }
 
-#background5 p{ 
+#background5 p {
     text-align: left;
     margin-top: 3%;
     padding-left: 3%;
-    padding-right: 3%;  
+    padding-right: 3%;
 }
 
-#background4 p{ 
+#background4 p {
     text-align: left;
     margin-top: 3%;
     padding-left: 3%;
-    padding-right: 3%;  
+    padding-right: 3%;
 }
 
-#background3 p { 
+#background3 p {
     text-align: left;
     margin-top: 3%;
     padding-left: 3%;
-    padding-right: 3%;  
+    padding-right: 3%;
 }
 
-#background2 p { 
+#background2 p {
     text-align: center;
     margin-top: 3%;
     padding-left: 3%;
-    padding-right: 3%; 
+    padding-right: 3%;
 }
 
 #background p {
     text-align: left;
     padding-left: 3%;
-    padding-right: 3%; 
+    padding-right: 3%;
 }
 
-#name { 
-    padding-bottom: ; 
+#name {
+    padding-bottom: ;
 }
 
 .zulured {
     width: 100%;
     background-color: #D64040;
     width: 550px;
-    height: 200px; 
+    height: 200px;
     margin: auto;
 }
 
-.zulured p{ 
-    width: 100%; 
-    color: white; 
+.zulured p {
+    width: 100%;
+    color: white;
     text-align: center;
     margin-bottom: 10px;
 }
 
-#zulup1 { 
-    color: white; 
-    text-align: center;  
-    padding-top: 60px; 
+#zulup1 {
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.btn {
+    padding: 0; 
+    border: none;
+    background-color: inherit;
+    margin-bottom: .5%;
+    margin-left: -1.5%;
+    margin-right: -1.4%;
 }

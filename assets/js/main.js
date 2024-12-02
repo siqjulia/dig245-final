@@ -36,7 +36,9 @@ let game1 = 0;
 let game2 = 0;
 let game3 = 0;
 
-var firstButton = document.querySelector("button");
+
+
+var firstButton = document.querySelector("#text-block");
 var secondButton = document.querySelector("#button2");
 var thirdButton = document.querySelector("#button3");
 
@@ -47,7 +49,6 @@ function updateTotalScore() {
 function trackScore() {
     firstButton.addEventListener("click", () => {
         if (timeRemaining > 1) {
-            game1 = 5; //  Score 5 for first button
             restartTimer();
         } else {
             // alert("Time is up! Click the next button to go to the next game.");
