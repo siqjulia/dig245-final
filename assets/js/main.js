@@ -38,9 +38,9 @@ let game3 = 0;
 
 
 
-var firstButton = document.querySelector("#text-block");
-var secondButton = document.querySelector("#button2");
-var thirdButton = document.querySelector("#button3");
+var firstButton = document.querySelector("btn");
+var secondButton = document.querySelector("btn2");
+var thirdButton = document.querySelector("#btn3");
 
 function updateTotalScore() {
     return game1 + game2 + game3;
@@ -79,7 +79,8 @@ function trackScore() {
 function updateDisplay() {
     div.innerHTML = `
     <h1 class="timeRemaining">Time Remaining: ${timeRemaining}s</h1>
-    <p>Score: ${updateTotalScore()}</p>
+    <p class="score">Score: ${updateTotalScore()}</p>
+    console.log(timeRemaining);
   `;
 }
 

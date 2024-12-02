@@ -130,11 +130,24 @@
     padding-top: 60px;
 }
 
-.btn {
+.btn1 {
     padding: 0; 
     border: none;
     background-color: inherit;
     margin-bottom: .5%;
     margin-left: -1.5%;
     margin-right: -1.4%;
+}
+
+.btn2 { 
+    padding: 0; 
+    border: none;
+    background-color: inherit;
+   color:white; 
+}
+
+.btn3 { 
+    padding: 0; 
+    border: none;
+    background-color: inherit;
 }
