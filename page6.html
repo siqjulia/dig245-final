@@ -15,7 +15,7 @@
     <div class="topnav">
         <img src="assets/img/logo.png" alt="Project Unsubscribe Logo">
         <a href="#about">About</a>
-        <a href="#score">Score</a>
+        <a class="score" href="#score">Score</a>
     </div>
 
     <div class="container">
@@ -44,8 +44,8 @@
 
                     <p>Julia</p>
 
-                    <a href="index.html"> <button id="checkinbox" type="button"
-                            class="btn btn-primary mt-3">Play Again</button></a>
+                    <a href="index.html"> <button id="playagain" type="button" class="btn btn-primary mt-3">Play
+                            Again</button></a>
 
                 </div>
             </div>
@@ -54,8 +54,16 @@
 
 
     <!-- load javascript after the page elements render -->
-    <script src="assets/js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
         integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
         crossorigin="anonymous"></script>
+    <script>var element = document.querySelector("#playagain")
+        element.addEventListener("click", function () { 
+            localStorage.setItem("game1", 0);
+            localStorage.setItem("game2", 0);
+            localStorage.setItem("game3", 0);
+        })
+
+    </script>
+    <script src="assets/js/main.js"></script>
 </body>
