@@ -66,7 +66,7 @@ function trackScore() {
             if (timeRemaining > 1) {
                 game2 = 5; //  Score 5 for second button
                 localStorage.setItem("game2", game2)
-                alert("Good job! Sometimes the unscubscribe button is disguised as "Preferences." Click next to continue.")
+                alert("Good job! Sometimes the unscubscribe button is disguised as Preferences. Click next to continue.")
                 restartTimer();
             } else {
                 alert("Time is up! Click the next button to go to the next game.");
