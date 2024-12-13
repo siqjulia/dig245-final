@@ -170,3 +170,7 @@
     border: none;
     background-color: inherit;
 }
+
+.reciept { 
+    max-width: 100%;
+}
