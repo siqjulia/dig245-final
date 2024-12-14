@@ -58,7 +58,7 @@ function trackScore() {
             if (timeRemaining > 1) {
                 game1 = 5;
                 localStorage.setItem("game1", game1)
-                 alert("Good job! Companies can hide vague unsubscribe buttons in the middle of lengthy text. Click next to continue.")
+                 alert("Good job! You get 5 points. Companies can hide vague unsubscribe buttons in the middle of lengthy text. Click next to continue.")
                 restartTimer();
             } else {
                 alert("Time is up! Click the next button to go to the next game.");
@@ -72,7 +72,7 @@ function trackScore() {
             if (timeRemaining > 1) {
                 game2 = 5; //  Score 5 for second button
                 localStorage.setItem("game2", game2)
-                alert("Good job! Sometimes the unscubscribe button is disguised as Preferences. Click next to continue.")
+                alert("Good job! You get 5 points. Sometimes the unscubscribe button is disguised as Preferences. Click next to continue.")
                 restartTimer();
             } else {
                 alert("Time is up! Click the next button to go to the next game.");
@@ -84,7 +84,7 @@ function trackScore() {
             if (timeRemaining > 1) {
                 game3 = 5; // Score 5 for third button
                 localStorage.setItem("game3", game3)
-                alert("Good job! A company may provide several unsubscribe buttons or prompts, but only one works.")
+                alert("Good job! You get 5 points. A company may provide several unsubscribe buttons or prompts, but only one works.")
                 restartTimer();
                 winOrLose();
             } else if (timeRemaining < 1) {
