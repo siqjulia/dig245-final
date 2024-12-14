@@ -45,7 +45,6 @@
     width: 854px;
     height: 520px;
     margin: auto;
-    overflow-y: scroll;
 }
 
 #background2 {
@@ -63,7 +62,6 @@
     width: 854px;
     height: 905px;
     margin: auto;
-    overflow-y: scroll;
 }
 
 #background4 {
@@ -174,4 +172,8 @@
 #finalscreen { 
     background-color:#3078CD; 
     
+}
+
+html::-webkit-sc { 
+    background-color: #3078CD;
 }
