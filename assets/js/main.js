@@ -36,6 +36,7 @@ let game1 = localStorage.getItem("game1") || 0;
 let game2 = localStorage.getItem("game2") || 0;
 let game3 = localStorage.getItem("game3") || 0;
 
+var game 
 var firstButton = document.querySelector(".btn1");
 var secondButton = document.querySelector(".btn2");
 var thirdButton = document.querySelector(".btn3");
