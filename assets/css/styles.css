@@ -15,6 +15,11 @@
     margin-right: 10%;
 }
 
+.score { 
+    display: inline; 
+    padding-right: 10%;
+}
+
 #welcome {
     text-align: center;
     margin-top: 3%;
@@ -129,7 +134,7 @@
 .zulured p {
     width: 100%;
     color: white;
-    text-align: center;
+    text-align: center !important;
     margin-bottom: 10px;
 }
 
