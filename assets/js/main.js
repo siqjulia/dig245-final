@@ -11,7 +11,10 @@ let timeMax = 120;
 let timeMin = 0;
 
 function startTimer() {
-    timeRemaining = timeMax;
+	timeRemaining = timeMax;
+	
+	// update it on load 
+	updateDisplay();
 
     const intervalId = setInterval(() => {
         timeRemaining -= 1;
