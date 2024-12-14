@@ -49,6 +49,7 @@ function updateTotalScore() {
 
 
 function trackScore() {
+	if (!game) return;
     if (game == 1) {
         firstButton.addEventListener("click", () => {
             if (timeRemaining > 1) {
@@ -106,6 +107,10 @@ function winOrLose() {
     }
 }
 
-// Start the game
-startTimer();
-trackScore();
+
+if (game) {
+	scoreContainerEle.classList.remove("d-none")
+	// Start the game
+	startTimer();
+	trackScore();
+}
