@@ -53,7 +53,6 @@
     width: 854px;
     height: 1000px;
     margin: auto;
-    overflow-y: scroll;
 }
 
 #background3 {
@@ -174,6 +173,4 @@
     
 }
 
-html::-webkit-sc { 
-    background-color: #3078CD;
-}
+
