@@ -1,6 +1,9 @@
 
 /* javascript */
-let div = document.querySelector(".score");
+let scoreContainerEle = document.querySelector(".score-container");
+let scoreEle = document.querySelector(".score");
+let timeRemainingEle = document.querySelector(".timeRemaining");
+
 
 // Timer
 let timeRemaining = 120;
