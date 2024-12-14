@@ -42,6 +42,7 @@ var secondButton = document.querySelector(".btn2");
 var thirdButton = document.querySelector(".btn3");
 
 
+
 function updateTotalScore() {
         return Number(game1) + Number(game2) + Number(game3);
 }
@@ -89,7 +90,6 @@ function trackScore() {
         });
     }
 }
-
 
 
 function updateDisplay() {
