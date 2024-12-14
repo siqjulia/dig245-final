@@ -1,5 +1,8 @@
 /* css */
 
+.timeRemaining, .score { 
+    font-size: 25px;
+}
 
 .navbar {
     z-index: 1000; 
