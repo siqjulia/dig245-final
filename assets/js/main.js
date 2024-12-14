@@ -93,10 +93,8 @@ function trackScore() {
 
 
 function updateDisplay() {
-    div.innerHTML = `
-    </span class="timeRemaining">Time Remaining: ${timeRemaining}s</span>
-    <span class="score">Score: ${updateTotalScore()}</span>
-  `;
+	scoreEle.innerHTML = `Score: ${updateTotalScore()}`;
+	timeRemainingEle.innerHTML = `Time Remaining: ${timeRemaining}s`
 }
 
 function winOrLose() {
