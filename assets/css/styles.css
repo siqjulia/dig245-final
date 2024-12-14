@@ -2,24 +2,15 @@
 
 
 .navbar {
-    position: sticky !important;
     z-index: 1000; 
-    padding-bottom: 200px;
-    top: 0;
     background-color: #3078CD;
-    width: 100%;
     font-size: large;
 }
 
 .navbar a {
     color: white;
-    margin-right: 10%;
 }
 
-.score { 
-    display: inline; 
-    padding-right: 10%;
-}
 
 #welcome {
     text-align: center;
@@ -119,9 +110,9 @@
     padding-right: 3%;
 }
 
-#name {
+/* #name {
     padding-bottom: ;
-}
+} */
 
 .zulured {
     width: 100%;

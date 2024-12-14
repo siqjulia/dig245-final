@@ -1,7 +1,9 @@
 
 /* javascript */
-let div = document.querySelector(".score");
-console.clear();
+let scoreContainerEle = document.querySelector(".score-container");
+let scoreEle = document.querySelector(".score");
+let timeRemainingEle = document.querySelector(".timeRemaining");
+
 
 // Timer
 let timeRemaining = 120;
@@ -9,8 +11,10 @@ let timeMax = 120;
 let timeMin = 0;
 
 function startTimer() {
-    timeRemaining = timeMax;
-    const timerElement = document.getElementById("timer");
+	timeRemaining = timeMax;
+	
+	// update it on load 
+	updateDisplay();
 
     const intervalId = setInterval(() => {
         timeRemaining -= 1;
@@ -36,7 +40,6 @@ let game1 = localStorage.getItem("game1") || 0;
 let game2 = localStorage.getItem("game2") || 0;
 let game3 = localStorage.getItem("game3") || 0;
 
-var game 
 var firstButton = document.querySelector(".btn1");
 var secondButton = document.querySelector(".btn2");
 var thirdButton = document.querySelector(".btn3");
@@ -49,6 +52,7 @@ function updateTotalScore() {
 
 
 function trackScore() {
+	if (!game) return;
     if (game == 1) {
         firstButton.addEventListener("click", () => {
             if (timeRemaining > 1) {
@@ -93,10 +97,8 @@ function trackScore() {
 
 
 function updateDisplay() {
-    div.innerHTML = `
-    </span class="timeRemaining">Time Remaining: ${timeRemaining}s</span>
-    <span class="score">Score: ${updateTotalScore()}</span>
-  `;
+	scoreEle.innerHTML = `Score: ${updateTotalScore()}`;
+	timeRemainingEle.innerHTML = `Time Remaining: ${timeRemaining}s`
 }
 
 function winOrLose() {
@@ -108,6 +110,10 @@ function winOrLose() {
     }
 }
 
-// Start the game
-startTimer();
-trackScore();
+
+if (game) {
+	scoreContainerEle.classList.remove("d-none")
+	// Start the game
+	startTimer();
+	trackScore();
+}
