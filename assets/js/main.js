@@ -1,7 +1,6 @@
 
 /* javascript */
 let div = document.querySelector(".score");
-console.clear();
 
 // Timer
 let timeRemaining = 120;
